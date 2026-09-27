@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-27",
+  "build": "passed: TypeScript and Vite production build",
+  "buildWarnings": ["Three.js vendor bundle exceeds 500 kB before gzip"],
+  "assetFiles": 36,
+  "assetMegabytes": 59.3,
+  "assetVerification": "All downloaded files verified against API MD5; no missing manifest files",
+  "browser": "Codex in-app browser, local WebGL scene",
+  "checked": ["Scene renders with scanned plants and PBR textures", "Reference image opens and closes", "Keyboard movement changes the 3D viewpoint", "Reset returns to the initial viewpoint", "Quality select switches between high and medium", "Brightness slider updates value and exposure", "No browser error logs during the checked interactions"],
+  "observedFrameRates": "Approximately 45-60 fps in the test viewport after loading; not a cross-device benchmark",
+  "notVerified": ["PNG download: browser automation timed out waiting for the download event", "Mobile device performance", "Fullscreen and pointer lock in every browser"],
+  "visualAssessment": "The real-time 3D scene is implemented, but has not reached the reference image's photographic fidelity. Tree silhouettes, translucency and vegetation composition still differ.",
+  "screenshot": "forest-final.png"
+}

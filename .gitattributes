@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+public/assets/** -text
+public/assets/manifest.json text eol=lf
+*.png -text
+*.jpg -text

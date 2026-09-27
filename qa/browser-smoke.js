@@ -1,0 +1,34 @@
+async (page) => {
+  const read = async () => JSON.parse(await page.locator('#forest-inspection').textContent());
+  await page.waitForFunction(() => document.querySelector('#forest-inspection')?.textContent?.includes('presence'));
+  const initial = await read();
+  await page.getByRole('button', {name:'一時停止',exact:true}).click();
+  const paused = await read();
+  await page.waitForTimeout(300);
+  const pausedAfter = await read();
+  if (!pausedAfter.paused || Math.abs(pausedAfter.presence.age-paused.presence.age)>.07) throw Error('Pause did not freeze presence');
+  await page.getByRole('button',{name:'再開',exact:true}).click();
+  await page.getByRole('button',{name:'初期位置',exact:true}).click();
+  await page.keyboard.down('w');
+  await page.waitForTimeout(600);
+  await page.keyboard.up('w');
+  const moved = await read();
+  if (!(moved.camera.z < 8.8)) throw Error('Movement failed');
+  await page.keyboard.press('r');
+  await page.getByRole('button',{name:'灯り：切',exact:true}).click();
+  await page.screenshot({path:'qa/horror-lantern.png'});
+  if ((await page.getByRole('button',{name:'灯り：入',exact:true}).getAttribute('aria-pressed'))!=='true') throw Error('Lantern toggle failed');
+  await page.getByRole('button',{name:'灯り：入',exact:true}).click();
+  await page.mouse.move(640,360); await page.mouse.down(); await page.mouse.move(757,305,{steps:10}); await page.mouse.up();
+  await page.waitForFunction(() => JSON.parse(document.querySelector('#forest-inspection').textContent).presence.watched, {timeout:10000});
+  await page.screenshot({path:'qa/horror-watched.png'});
+  await page.waitForFunction(() => JSON.parse(document.querySelector('#forest-inspection').textContent).presence.mode==='hidden', {timeout:25000});
+  const hidden=await read();
+  await page.waitForFunction(() => { const s=JSON.parse(document.querySelector('#forest-inspection').textContent).presence; return s.mode==='following'&&s.opacity>.1; }, {timeout:25000});
+  const following=await read();
+  if(following.presence.inView) throw Error('Relocation occurred in view');
+  await page.getByRole('button',{name:'初期位置',exact:true}).click();
+  await page.waitForFunction(() => JSON.parse(document.querySelector('#forest-inspection').textContent).presence.opacity>.9, {timeout:25000});
+  await page.screenshot({path:'qa/horror-final.png'});
+  return {initial, pausedVerified:true, moved:moved.camera, lanternVerified:true, hidden, following, final:await read()};
+}

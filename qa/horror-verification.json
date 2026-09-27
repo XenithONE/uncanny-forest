@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-27",
+  "unitTests": {"passed":6,"failed":0,"command":"npm test"},
+  "browser": "Isolated Playwright Chromium, 1280x720",
+  "visualVerification": "Screenshot inspected: dim blue-green forest, legible foreground ferns and a dark humanoid silhouette peeking beside the right-hand trunk",
+  "integrationTests": {
+    "pauseFreezesPresence":true,
+    "forwardMovement":{"beforeZ":9,"afterZ":8.01},
+    "lanternToggle":true,
+    "gazeWithdrawsPresence":{"mode":"hidden","opacity":0,"watchedSeconds":5.0502},
+    "reappearsOutsideView":{"mode":"following","x":-2.9584,"z":22.1174,"inView":false,"opacity":0.1035},
+    "resetRestoresFirstEncounter":true
+  },
+  "observedFPS":{"watching":60,"following":56},
+  "performanceScope":"One local test browser, not a cross-device benchmark",
+  "screenshots":["horror-final.png","horror-watched.png","horror-lantern.png"],
+  "limitations":["No cross-device audio listening test","No mobile hardware performance measurement","Reference image photographic fidelity remains unmatched"]
+}

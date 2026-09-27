@@ -1,0 +1,218 @@
+[
+  {
+    "path": "fern_02/fern_02.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/fern_02/fern_02_4k.gltf",
+    "md5": "10425c45145273a2899b8cc585592d2e",
+    "bytes": 6899
+  },
+  {
+    "path": "fern_02/textures/fern_02_diff_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_diff_4k.jpg",
+    "md5": "07642c942fe65ae5b03b212398ba7004",
+    "bytes": 3025392
+  },
+  {
+    "path": "fern_02/textures/fern_02_nor_gl_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_nor_gl_4k.jpg",
+    "md5": "1a35f2135cd71a64a255406b11f988a2",
+    "bytes": 5058951
+  },
+  {
+    "path": "fern_02/fern_02.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fern_02/fern_02.bin",
+    "md5": "c061e9255f7d36ae9ce0e92ef3e100b2",
+    "bytes": 176176
+  },
+  {
+    "path": "fern_02/textures/fern_02_arm_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fern_02/fern_02_arm_4k.jpg",
+    "md5": "37426a24b433a05fe3958acc34232ede",
+    "bytes": 2569142
+  },
+  {
+    "path": "fern_02/alpha.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fern_02/fern_02_alpha_4k.png",
+    "md5": "520e194db987df18fd73b49d979ada0c",
+    "bytes": 470827
+  },
+  {
+    "path": "dead_tree_trunk/dead_tree_trunk.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/dead_tree_trunk/dead_tree_trunk_2k.gltf",
+    "md5": "0101cc9b4167fee9872c4153602c1179",
+    "bytes": 2812
+  },
+  {
+    "path": "dead_tree_trunk/textures/dead_tree_trunk_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_tree_trunk/dead_tree_trunk_diff_2k.jpg",
+    "md5": "c75e5dc80be2e5d4bc873db388e2093c",
+    "bytes": 2580084
+  },
+  {
+    "path": "dead_tree_trunk/textures/dead_tree_trunk_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_tree_trunk/dead_tree_trunk_arm_2k.jpg",
+    "md5": "908ade4a274dd887658eb055415ad61b",
+    "bytes": 2608763
+  },
+  {
+    "path": "dead_tree_trunk/textures/dead_tree_trunk_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_tree_trunk/dead_tree_trunk_nor_gl_2k.jpg",
+    "md5": "c09438c886b3327dca4f61b758dbd570",
+    "bytes": 3804907
+  },
+  {
+    "path": "dead_tree_trunk/dead_tree_trunk.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_tree_trunk/dead_tree_trunk.bin",
+    "md5": "2a2b05e67a5c51fba5fc7591a7857957",
+    "bytes": 2293788
+  },
+  {
+    "path": "moss_01/moss_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/moss_01/moss_01_2k.gltf",
+    "md5": "2a4fd6d96cbe0bbc3f65a657df64ad94",
+    "bytes": 18481
+  },
+  {
+    "path": "moss_01/textures/moss_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/moss_01/moss_01_nor_gl_2k.jpg",
+    "md5": "96db55f825bbaefa2ded5c8d1cc6abbe",
+    "bytes": 1632699
+  },
+  {
+    "path": "moss_01/textures/moss_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/moss_01/moss_01_diff_2k.jpg",
+    "md5": "268c4ea561fa189fead481250ab5835c",
+    "bytes": 511727
+  },
+  {
+    "path": "moss_01/textures/moss_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/moss_01/moss_01_arm_2k.jpg",
+    "md5": "427fabe137e96a5e9f9087fc2220407c",
+    "bytes": 1095803
+  },
+  {
+    "path": "moss_01/moss_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/moss_01/moss_01.bin",
+    "md5": "cdb092878a81b3208a162d79546892fe",
+    "bytes": 7260
+  },
+  {
+    "path": "moss_01/alpha.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/moss_01/moss_01_alpha_2k.png",
+    "md5": "838476c334c1c70807d9c3b999b81186",
+    "bytes": 167941
+  },
+  {
+    "path": "anthurium_botany_01/anthurium_botany_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/anthurium_botany_01/anthurium_botany_01_2k.gltf",
+    "md5": "3d277dfee757d3709b222dd72bc73379",
+    "bytes": 10675
+  },
+  {
+    "path": "anthurium_botany_01/textures/anthurium_botany_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.jpg",
+    "md5": "d91661ccf57f931fbc22d5b1cd1db92b",
+    "bytes": 1900025
+  },
+  {
+    "path": "anthurium_botany_01/anthurium_botany_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01.bin",
+    "md5": "121f1e490c98ea71ebb1a61a2246c585",
+    "bytes": 1744256
+  },
+  {
+    "path": "anthurium_botany_01/textures/anthurium_botany_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+    "md5": "0fc12b2b2db969ff4f5cc783ffdb807c",
+    "bytes": 1565878
+  },
+  {
+    "path": "anthurium_botany_01/textures/anthurium_botany_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_arm_2k.jpg",
+    "md5": "5e327c9486f0470a7808b6cea99993b4",
+    "bytes": 1833646
+  },
+  {
+    "path": "anthurium_botany_01/alpha.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.png",
+    "md5": "2a14dde9381b983427adcba195c7d6c6",
+    "bytes": 95881
+  },
+  {
+    "path": "shrub_04/shrub_04.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/shrub_04/shrub_04_2k.gltf",
+    "md5": "7a6f451aea5cc9bae36ce9b027dc25cf",
+    "bytes": 2882
+  },
+  {
+    "path": "shrub_04/textures/shrub_04_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/shrub_04/shrub_04_arm_2k.jpg",
+    "md5": "f37749dbbfe57024799df7b96f896643",
+    "bytes": 1005689
+  },
+  {
+    "path": "shrub_04/shrub_04.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/shrub_04/shrub_04.bin",
+    "md5": "987a672e598f9dc04b6d23cb8f36d697",
+    "bytes": 749084
+  },
+  {
+    "path": "shrub_04/textures/shrub_04_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/shrub_04/shrub_04_nor_gl_2k.jpg",
+    "md5": "ca4ecc50015a85e38675a4967e843485",
+    "bytes": 1428577
+  },
+  {
+    "path": "shrub_04/textures/shrub_04_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/shrub_04/shrub_04_diff_2k.jpg",
+    "md5": "76f10cb443bc5964ec9484cfea474196",
+    "bytes": 1202317
+  },
+  {
+    "path": "shrub_04/alpha.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/shrub_04/shrub_04_alpha_2k.png",
+    "md5": "c580b41967ed8e43358c2b8621fd07b1",
+    "bytes": 91048
+  },
+  {
+    "path": "moss_wood/diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/moss_wood/moss_wood_diff_2k.jpg",
+    "md5": "1346872073558c36b66ae4201f42ef30",
+    "bytes": 3609431
+  },
+  {
+    "path": "moss_wood/nor_gl.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/moss_wood/moss_wood_nor_gl_2k.jpg",
+    "md5": "4f5dfac68e09f971ba8950d8fa0836be",
+    "bytes": 3545000
+  },
+  {
+    "path": "moss_wood/rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/moss_wood/moss_wood_rough_2k.jpg",
+    "md5": "46cf862c7a0f85686ad0c098180cb354",
+    "bytes": 1402105
+  },
+  {
+    "path": "forest_floor/diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_floor/forest_floor_diff_2k.jpg",
+    "md5": "a93f845fca105e6cabc82853161ff7b6",
+    "bytes": 5452936
+  },
+  {
+    "path": "forest_floor/nor_gl.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_floor/forest_floor_nor_gl_2k.jpg",
+    "md5": "41e49ec58f74a749e325f59290266e9d",
+    "bytes": 5367757
+  },
+  {
+    "path": "forest_floor/rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_floor/forest_floor_rough_2k.jpg",
+    "md5": "4d8070c33b0daf195fd2a054faa2a491",
+    "bytes": 3242269
+  },
+  {
+    "path": "mossy_forest.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/mossy_forest_1k.hdr",
+    "md5": "6fe9187425e83905a00f32a75a4690db",
+    "bytes": 1928894
+  }
+]
